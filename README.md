@@ -1,7 +1,7 @@
 
 # Course Code: EEE 2110
 ## Course Name: EEE2110-Programming Language Lab
-## Level: Year 2, Semester 1
+## Level: Year 2 , Semester 1
 
 <details><summary>
 Reference materials:
@@ -19,3 +19,4 @@ Reference materials:
 |Date|Topics|:link:|
 |:-----:|:------:|:-----:|
 |09/12/2021|Introduction to C++ , Variables , operators and type conversions |[Lab1](https://github.com/Md-Sabbir-Ahmed/EEE2110/tree/main/LAB%2001)|
+|23/12/2021|Selection statements|[Lab2]()|
