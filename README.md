@@ -4,7 +4,7 @@
 ## Level: Year 2, Semester 1
 
 <details><summary>
-### Reference materials:
+Reference materials:
 </summary>
 
 ### a) [**Lab Manual**](https://github.com/Md-Sabbir-Ahmed/EEE2110/blob/main/EEE2110.pdf)
