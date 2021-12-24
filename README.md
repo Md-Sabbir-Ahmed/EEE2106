@@ -1,6 +1,6 @@
 
 # Course Code: EEE 2110
-## Course Name: EEE2110-Programming Language Lab
+## Course Name: Programming Language Laboratory
 ## Level: Year 2 , Semester 1
 
 <details><summary>
