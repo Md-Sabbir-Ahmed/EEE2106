@@ -8,6 +8,7 @@ read commitMessage
 git commit -m "$commitMessage"
 
 git push 
+git push 
 
 echo 'Your EEE2110 Successfully Updated'
 
