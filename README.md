@@ -9,8 +9,7 @@ Reference materials:
 
 ### a) [**Lab Manual**](https://github.com/Md-Sabbir-Ahmed/EEE2110/blob/main/EEE2110.pdf)
 ### b) **Books**
-### i) Schaum's Outline of Programming with C++ by John Hubbard
-### ii) কম্পিউটার প্রোগ্রামিং-প্রথম খণ্ড - তামিম শাহরিয়ার সুবিন
+### i) [Schaum's Outline of Programming with C++ by John Hubbard](https://github.com/Md-Sabbir-Ahmed/EEE2110/blob/main/schaums-outline-of-programming-with-c%2B%2B.pdf)
 ### c) **Videos**
 ### 1) [**Increment Decrement Operator**](https://www.youtube.com/watch?v=8Z36oRXVDgs)
 
