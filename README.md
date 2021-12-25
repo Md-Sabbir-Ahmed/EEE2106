@@ -1,6 +1,7 @@
 
 # Course Code: EEE 2110
 ## Course Name: Programming Language Laboratory
+## Course Teacher: [**1) Adnan Quaium**](https://adnan.quaium.com/) , **2) Bijoy Sikdar**
 ## Level: Year 2 , Semester 1
 
 <details><summary>
